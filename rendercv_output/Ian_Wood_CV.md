@@ -29,11 +29,13 @@ Aug 2026 – present
 
 *Sr. Software Engineer*
 
-- Owned product expansion for fleet management end-to-end (requirements, UX, engineering, rollout) across multiple teams managing $14M+/month in equipment, shipping rental/lease contract tracking, real-time Kafka sync, and live GPS location tracking to improve operations.
+- Owned product expansion for vehicle fleet management end-to-end (requirements, UX, engineering, rollout) across multiple teams managing $14M+/month in equipment, shipping rental/lease contract tracking, real-time data synchronization through Kafka, and live GPS location tracking to improve operations.
 
-- Redesigned table partitioning and a 6-index schema using Splunk-driven usage analysis to support 20K+ new maintenance orders/day, eliminating chronic slow-query and performance issues.
+- Redesigned table partitioning and index schema using Splunk-driven usage analysis to support 20K+ new maintenance orders/day, eliminating chronic slow-query and performance issues.
 
 - Resolved a production auth outage on a 1.2M-message/hour Kafka pipeline by replacing 20 over-provisioned pods with a TTL cache and singleflight pattern; applied Redis caching to cut a 250K-call/hour database hotspot.
+
+- Designed and built TCP and vendor API integrations to automate parts dispensing and tracking to remove manual audits, saving ~$8 per part of labor.
 
 
 
@@ -43,7 +45,7 @@ Mar 2025 – Aug 2026
 
 - Built full-stack features (Go, MySQL, Angular, Kafka, Kubernetes) for an internal factory platform tracking equipment maintenance and assets, used by 50,000+ people across 6 global factories.
 
-- Brought a new ~60-location business vertical onto the platform with HR-synced user provisioning, and built TCP/vendor-API integrations automating parts dispensing (~$8/part) to remove manual audits.
+- Brought a new ~60-location business vertical onto the platform with HR-synced user provisioning and automatic role management.
 
 - Supported production on-call across 6 factories, triaging incidents with Splunk, Grafana, and database profiling, and managing Kafka infrastructure (topics, certificates, consumer health).
 
