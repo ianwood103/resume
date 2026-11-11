@@ -24,21 +24,21 @@ Mar 2025 – present
 
 *Austin, TX*
 
-*Software Engineer*
+*Senior Software Engineer (promoted Aug 2026) · Software Engineer*
 
-- **Platform:** Build full-stack features (Go, MySQL, Angular, Kafka, Kubernetes) for an internal factory platform tracking equipment maintenance and assets, used by 50,000+ people across 6 global factories.
+- Build full-stack features (Go, MySQL, Angular, Kafka, Kubernetes) for an internal factory platform tracking equipment maintenance and assets, used by 50,000+ people across 6 global factories.
 
-- **Scalability:** Redesigned table partitioning and a 6-index schema using Splunk-driven usage analysis to support 20K+ new maintenance orders/day, eliminating chronic slow-query and performance issues.
+- Redesigned table partitioning and a 6-index schema using Splunk-driven usage analysis to support 20K+ new maintenance orders/day, eliminating chronic slow-query and performance issues.
 
-- **Reliability:** Resolved a production auth outage on a 1.2M-message/hour Kafka pipeline by replacing 20 over-provisioned pods with a TTL cache and singleflight pattern; applied Redis caching to cut a 250K-call/hour database hotspot.
+- Resolved a production auth outage on a 1.2M-message/hour Kafka pipeline by replacing 20 over-provisioned pods with a TTL cache and singleflight pattern; applied Redis caching to cut a 250K-call/hour database hotspot.
 
-- **Product delivery:** Owned product expansion for fleet management end-to-end (requirements, UX, engineering, rollout) across multiple teams managing $14M+/month in equipment, shipping rental/lease contract tracking, real-time Kafka sync, and live GPS location tracking to improve operations.
+- Owned product expansion for fleet management end-to-end (requirements, UX, engineering, rollout) across multiple teams managing $14M+/month in equipment, shipping rental/lease contract tracking, real-time Kafka sync, and live GPS location tracking to improve operations.
 
-- **Onboarding & integration:** Brought a new ~60-location business vertical onto the platform with HR-synced user provisioning, and built TCP/vendor-API integrations automating parts dispensing (~$8/part) to remove manual audits.
+- Brought a new ~60-location business vertical onto the platform with HR-synced user provisioning, and built TCP/vendor-API integrations automating parts dispensing (~$8/part) to remove manual audits.
 
-- **Operations:** Support production on-call across 6 factories, triaging incidents with Splunk, Grafana, and database profiling, and managing Kafka infrastructure (topics, certificates, consumer health).
+- Support production on-call across 6 factories, triaging incidents with Splunk, Grafana, and database profiling, and managing Kafka infrastructure (topics, certificates, consumer health).
 
-- **AI tooling:** Used AI-assisted development (Claude Code + Cursor) to build reproducible data-migration tooling and accelerate delivery across all initiatives through AI-driven coding pipelines.
+- Used AI-assisted development (Claude Code + Cursor) to build reproducible data-migration tooling and accelerate delivery across all initiatives through AI-driven coding pipelines.
 
 
 
@@ -101,5 +101,3 @@ May 2021 – Aug 2021
 **Web Development:** Next.js, React, Node.js, ASP.NET, Tailwind, HTML/CSS
 
 **Technology:** Git, Docker, Kubernetes, Kafka, Grafana, Azure, Splunk, MySQL, ClickHouse, PostgreSQL
-
-**AI:** Cursor, Claude Code, MCP, AI-Assisted Development
