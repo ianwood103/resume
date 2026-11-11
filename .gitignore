@@ -1,0 +1,4 @@
+# Generated output: keep only the PDF
+rendercv_output/*
+!rendercv_output/*.pdf
+.DS_Store

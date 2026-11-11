@@ -1,0 +1,103 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ian Wood
+  phone: +1-770-656-1244
+  email: ian.albert.wood@gmail.com
+  social_networks:
+    - network: LinkedIn
+      username: ian-albert-wood
+    - network: GitHub
+      username: ianwood103
+  sections:
+    education:
+      - institution: Georgia Institute of Technology
+        area: 'Computer Science (GPA: 4.00 / 4.00)'
+        degree: BS
+        start_date: 2021-08
+        end_date: 2024-12
+        location: Atlanta, GA
+    experience:
+      - company: Tesla
+        position: Software Engineer
+        start_date: 2025-03
+        end_date: present
+        location: Austin, TX
+        highlights:
+          - '**Platform:** Build full-stack features (Go, MySQL, Angular, Kafka, Kubernetes) for an internal factory platform tracking equipment maintenance and assets, used by 50,000+ people across 6 global factories.'
+          - '**Scalability:** Redesigned table partitioning and a 6-index schema using Splunk-driven usage analysis to support 20K+ new maintenance orders/day, eliminating chronic slow-query and performance issues.'
+          - '**Reliability:** Resolved a production auth outage on a 1.2M-message/hour Kafka pipeline by replacing 20 over-provisioned pods with a TTL cache and singleflight pattern; applied Redis caching to cut a 250K-call/hour database hotspot.'
+          - '**Product delivery:** Owned product expansion for fleet management end-to-end (requirements, UX, engineering, rollout) across multiple teams managing $14M+/month in equipment, shipping rental/lease contract tracking, real-time Kafka sync, and live GPS location tracking to improve operations.'
+          - '**Onboarding & integration:** Brought a new ~60-location business vertical onto the platform with HR-synced user provisioning, and built TCP/vendor-API integrations automating parts dispensing (~$8/part) to remove manual audits.'
+          - '**Operations:** Support production on-call across 6 factories, triaging incidents with Splunk, Grafana, and database profiling, and managing Kafka infrastructure (topics, certificates, consumer health).'
+          - '**AI tooling:** Used AI-assisted development (Claude Code + Cursor) to build reproducible data-migration tooling and accelerate delivery across all initiatives through AI-driven coding pipelines.'
+      - company: Tesla
+        position: Software Engineer Intern
+        start_date: 2024-05
+        end_date: 2024-08
+        location: Fremont, CA
+        highlights:
+          - Developed features for in-house equipment maintenance software using Golang, MySQL, and Angular.
+          - Created Grafana dashboards to display data analytics and predict equipment failure using equipment data retrieved from a Kafka data pipeline.
+          - Led design/implementation of API for creating forms and workflows that were used across the company by over 20,000 people.
+      - company: FlightBridge
+        position: Software Engineer Intern
+        start_date: 2022-05
+        end_date: 2022-08
+        location: Atlanta, GA
+        highlights:
+          - Continuously developed an online booking and management platform for the private aviation industry.
+          - Developed a tool using ASP.NET and the Google Maps API to visualize hotel data for over 1000 customers.
+          - Utilized SQL and LINQ in C# to build a hotel recommendation engine that increased hotel search efficiency.
+      - company: Griffin Solutions Group
+        position: Software Engineer Intern
+        start_date: 2021-05
+        end_date: 2021-08
+        location: Alpharetta, GA
+        highlights:
+          - Followed an Agile development cycle to work on multiple software projects at a software solutions company.
+          - Used React to develop frontend features and worked with Node.js and PostgreSQL to develop API endpoints.
+    certifications:
+      - name: Microsoft Azure Fundamentals | AZ-900
+        date: 2025-05
+    technical_skills:
+      - label: Languages
+        details: Go, TypeScript, Python, C#, SQL
+      - label: Web Development
+        details: Next.js, React, Node.js, ASP.NET, Tailwind, HTML/CSS
+      - label: Technology
+        details: Git, Docker, Kubernetes, Kafka, Grafana, Azure, Splunk, MySQL, ClickHouse, PostgreSQL
+      - label: AI
+        details: Cursor, Claude Code, MCP, AI-Assisted Development
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    top_margin: 0.4in
+    bottom_margin: 0.4in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: false
+    show_top_note: false
+  typography:
+    alignment: left
+  header:
+    space_below_name: 0.5cm
+    space_below_connections: 0.4cm
+  section_titles:
+    space_above: 0.35cm
+    space_below: 0.2cm
+  sections:
+    space_between_regular_entries: 0.8em
+    space_between_text_based_entries: 0.15em
+  templates:
+    experience_entry:
+      main_column: |-
+        **COMPANY**
+        *POSITION*
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        DATE
+        *LOCATION*
+locale:
+  language: english
