@@ -60,11 +60,9 @@ cv:
       - name: Microsoft Azure Fundamentals | AZ-900
         date: 2025-05
     technical_skills:
-      - label: Languages
-        details: Go, TypeScript, Python, C#, SQL
-      - label: Web Development
-        details: Next.js, React, Node.js, ASP.NET, Tailwind, HTML/CSS
-      - label: Technology
+      - label: Languages & Frameworks
+        details: Go, TypeScript, Python, C#, SQL, Next.js, React, Node.js, ASP.NET, Tailwind
+      - label: Infrastructure
         details: Git, Docker, Kubernetes, Kafka, Grafana, Azure, Splunk, MySQL, ClickHouse, PostgreSQL
 design:
   theme: sb2nov
