@@ -102,6 +102,6 @@ May 2021 – Aug 2021
 
 
 # Technical Skills
-**Languages & Frameworks:** Go, TypeScript, Python, C#, SQL, Next.js, React, Node.js, ASP.NET, Tailwind
+**Languages & Frameworks:** Go, TypeScript, Python, C#, SQL, Next.js, React, Node.js
 
 **Infrastructure:** Git, Docker, Kubernetes, Kafka, Grafana, Azure, Splunk, MySQL, ClickHouse, PostgreSQL

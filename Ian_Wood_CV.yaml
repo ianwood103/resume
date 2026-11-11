@@ -66,7 +66,7 @@ cv:
         date: 2025-05
     technical_skills:
       - label: Languages & Frameworks
-        details: Go, TypeScript, Python, C#, SQL, Next.js, React, Node.js, ASP.NET, Tailwind
+        details: Go, TypeScript, Python, C#, SQL, Next.js, React, Node.js
       - label: Infrastructure
         details: Git, Docker, Kubernetes, Kafka, Grafana, Azure, Splunk, MySQL, ClickHouse, PostgreSQL
 design:
