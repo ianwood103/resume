@@ -20,7 +20,7 @@
 # Experience
 ## **Tesla**
 
-Aug 2026 – present
+Mar 2025 – present
 
 *Austin, TX*
 
