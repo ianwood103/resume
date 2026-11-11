@@ -22,7 +22,7 @@
 
 Mar 2025 – present
 
-*Austin, TX*
+Aug 2026 – present
 
 *Sr. Software Engineer*
 

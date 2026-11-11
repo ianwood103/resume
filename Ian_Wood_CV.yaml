@@ -19,9 +19,9 @@ cv:
     experience:
       - company: Tesla
         position: Sr. Software Engineer
-        start_date: 2025-03
+        tenure: Mar 2025 – present
+        start_date: 2026-08
         end_date: present
-        location: Austin, TX
         highlights:
           - Owned product expansion for fleet management end-to-end (requirements, UX, engineering, rollout) across multiple teams managing $14M+/month in equipment, shipping rental/lease contract tracking, real-time Kafka sync, and live GPS location tracking to improve operations.
           - Redesigned table partitioning and a 6-index schema using Splunk-driven usage analysis to support 20K+ new maintenance orders/day, eliminating chronic slow-query and performance issues.
@@ -98,6 +98,7 @@ design:
         SUMMARY
         HIGHLIGHTS
       date_and_location_column: |-
+        TENURE
         DATE
         *LOCATION*
 locale:
