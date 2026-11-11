@@ -19,6 +19,7 @@ cv:
     experience:
       - company: Tesla
         position: Sr. Software Engineer
+        site: Austin, TX
         tenure: Mar 2025 – present
         start_date: 2026-08
         end_date: present
@@ -93,7 +94,7 @@ design:
   templates:
     experience_entry:
       main_column: |-
-        **COMPANY**
+        **COMPANY** · *SITE*
         *POSITION*
         SUMMARY
         HIGHLIGHTS

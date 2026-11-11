@@ -18,7 +18,7 @@
 
 
 # Experience
-## **Tesla**
+## **Tesla** · *Austin, TX*
 
 Mar 2025 – present
 
