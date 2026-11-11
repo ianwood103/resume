@@ -9,6 +9,8 @@ cv:
     - network: GitHub
       username: ianwood103
   sections:
+    summary:
+      - Full-stack Sr. Software Engineer at Tesla who thrives on cross-functional projects spanning many teams and disciplines. I take ownership fast and stay focused on measurable outcomes in production.
     education:
       - institution: Georgia Institute of Technology
         area: 'Computer Science (GPA: 4.00 / 4.00)'
@@ -85,10 +87,10 @@ design:
     space_below_name: 0.5cm
     space_below_connections: 0.4cm
   section_titles:
-    space_above: 0.35cm
-    space_below: 0.2cm
+    space_above: 0.3cm
+    space_below: 0.15cm
   sections:
-    space_between_regular_entries: 0.8em
+    space_between_regular_entries: 0.6em
     space_between_text_based_entries: 0.15em
   templates:
     experience_entry:

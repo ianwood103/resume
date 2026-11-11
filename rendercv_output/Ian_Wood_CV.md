@@ -6,6 +6,9 @@
 - GitHub: [ianwood103](https://github.com/ianwood103)
 
 
+# Summary
+Full-stack Sr. Software Engineer at Tesla who thrives on cross-functional projects spanning many teams and disciplines. I take ownership fast and stay focused on measurable outcomes in production.
+
 # Education
 ## **Georgia Institute of Technology**
 *Atlanta, GA*
