@@ -24,7 +24,7 @@ Aug 2026 – present
 
 *Austin, TX*
 
-*Senior Software Engineer*
+*Sr. Software Engineer*
 
 - Owned product expansion for fleet management end-to-end (requirements, UX, engineering, rollout) across multiple teams managing $14M+/month in equipment, shipping rental/lease contract tracking, real-time Kafka sync, and live GPS location tracking to improve operations.
 
