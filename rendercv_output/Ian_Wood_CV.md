@@ -18,9 +18,9 @@
 
 
 # Experience
-## **Tesla**
+## **Tesla** · *Austin, TX*
 
-*Austin, TX*
+Mar 2025 – present
 
 Aug 2026 – present
 
@@ -50,9 +50,9 @@ Mar 2025 – Aug 2026
 
 ## **Tesla**
 
-*Fremont, CA*
-
 May 2024 – Aug 2024
+
+*Fremont, CA*
 
 *Software Engineer Intern*
 
@@ -66,9 +66,9 @@ May 2024 – Aug 2024
 
 ## **FlightBridge**
 
-*Atlanta, GA*
-
 May 2022 – Aug 2022
+
+*Atlanta, GA*
 
 *Software Engineer Intern*
 
@@ -82,9 +82,9 @@ May 2022 – Aug 2022
 
 ## **Griffin Solutions Group**
 
-*Alpharetta, GA*
-
 May 2021 – Aug 2021
+
+*Alpharetta, GA*
 
 *Software Engineer Intern*
 
